@@ -1,5 +1,5 @@
 
-algoritmo "asterisco03"
+algoritmo "asterisco02"
 
 var
 
