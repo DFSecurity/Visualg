@@ -22,4 +22,4 @@ escreval (asterisco)
 asterisco <- asterisco + "*"
 fimpara
 
-Fimalgoritmo
+fimalgoritmo
