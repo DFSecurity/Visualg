@@ -19,7 +19,6 @@ leia (valor3)
 limpatela
 
 se valor1 < valor2 entao
-
     se valor2 < valor3 entao
         escreva (valor1, ",", valor2, ",", valor3)
     senao
